@@ -8,16 +8,23 @@ You will find three assignments:
 
  * Programming Assignment 1 : The goal for this task is to develop a PD controller for Hover control in a quadrotor.
  
- ![Height Control](/)
- 
+ <p align="center">
+ <img src="Hover_control.gif" alt="animated" width="500"/>
+ </p>
+  
  * Programming Assignment 2 : The goal for this task is to design a PD controller to follow two trajectory in 2D space: Straight Line and Sine Wave.
  
- ![Straight Line Trajectory Tracking](/line_control_2d.gif)
- 
+ <p align="center">
+ <img src="line_control_2d.gif" alt="animated" width="500"/>
+ <img src="Sine_control_2d.gif" alt="animated" width="500"/>
+ </p>
+
  * Programming Assignment 3 : The goal for this task is to design a PD controller for a quadrotor in 3D space: given a set of waypoints.
  
- ![3D Trajectory Tracking](/)
-
+ <p align="center">
+ 
+ </p>
+ 
 ## Course Syllabus
 
 - [x] Week 1 - Introduction to Aerial Robotics
