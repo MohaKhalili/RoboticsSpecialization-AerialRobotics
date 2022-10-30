@@ -37,7 +37,8 @@ You will find three assignments:
 
 - [x] Week 3 - Planning and Control
 * Linear Control (PID Controllers)
-* Trajectory Generation Motion Planning
+* Trajectory Generation
+* Motion Planning
 
 - [x] Week 4 - Advanced Topics
 * Sensing and Estimation
@@ -45,7 +46,7 @@ You will find three assignments:
 * Control of Multiple Robots
 
 
-## For more information:
+## For more information
 
  * Coursera Page for [Robotics specialization](https://www.coursera.org/specializations/robotics) 
  * Coursera Page for [Aerial Robotics](https://www.coursera.org/learn/robotics-flight/) 
