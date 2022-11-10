@@ -15,8 +15,8 @@ You will find three assignments:
  * Programming Assignment 2 : The goal for this task is to design a PD controller to follow two trajectory in 2D space: Straight Line and Sine Wave.
  
  <p align="center">
- <img src="line_control_2d.gif" alt="animated" width="500"/>
- <img src="Sine_control_2d.gif" alt="animated" width="500"/>
+ <img src="line_control_2d.gif" alt="animated" width="400"/>
+ <img src="Sine_control_2d.gif" alt="animated" width="400"/>
  </p>
 
  * Programming Assignment 3 : The goal for this task is to design a PD controller for a quadrotor in 3D space: given a set of waypoints.
@@ -37,7 +37,8 @@ You will find three assignments:
 
 - [x] Week 3 - Planning and Control
 * Linear Control (PID Controllers)
-* Trajectory Generation Motion Planning
+* Trajectory Generation
+* Motion Planning
 
 - [x] Week 4 - Advanced Topics
 * Sensing and Estimation
@@ -45,7 +46,7 @@ You will find three assignments:
 * Control of Multiple Robots
 
 
-## For more information:
+## For more information
 
  * Coursera Page for [Robotics specialization](https://www.coursera.org/specializations/robotics) 
  * Coursera Page for [Aerial Robotics](https://www.coursera.org/learn/robotics-flight/) 
