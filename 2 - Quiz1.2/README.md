@@ -3,7 +3,7 @@
 1. You observe the response of a system shown in the figure below
  
  <p align="center">
- <img src="Q1.jpeg" width="500"/>
+ <img src="Q1.png" width="500"/>
  </p>
 
 What should you do to decrease the oscillations in the response?
@@ -26,7 +26,7 @@ Given that the derivative gain Kv=5, find the proportional gain Kp (up to two de
 3. Assuming we are using the F550 + E310 + 4 cell battery with a 200g onboard computer and a laser (270g), what is the thrust to weight ratio of the platform? (We use the term "weight" and "thrust" loosely. Except for Thrust/Weight and Propeller, all units are in grams)
 
  <p align="center">
- <img src="Q3.jpeg" width="500"/>
+ <img src="Q3.png" width="500"/>
  </p>
 
  4. Why don’t all the rotors of a quadrotor spin in the same direction?
