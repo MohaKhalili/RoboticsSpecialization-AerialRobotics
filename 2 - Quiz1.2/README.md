@@ -44,6 +44,7 @@ A 100g computer that consumes 40W for operation or a 200g laser which consumes 2
 - [ ] Both contribute the same to the power consumption.
 
 
-`Also there are other MATLAB quiz which you can see in this folder : `
-`1. StoppingDistanceExercise`
-`2. ThrustWeightExercise`
+```Also there are other MATLAB quiz which you can see in this folder : 
+1. StoppingDistanceExercise
+2. ThrustWeightExercise 
+```
