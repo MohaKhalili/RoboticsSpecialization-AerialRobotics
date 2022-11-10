@@ -7,7 +7,7 @@
 - [ ] Inexpensive components
 - [ ] Efficiency in forward flight
 
-2. In how many ways can you translate and rotate this robot in free space? Enter your answer as a numeric value (e.g. 1 instead of one). 
+2. In how many ways can you translate and rotate this robot in free space? Write your answer as a numeric value (e.g. 1 instead of one). 
 
  <p align="center">
  <img src="Q2.jpeg" width="500"/>
