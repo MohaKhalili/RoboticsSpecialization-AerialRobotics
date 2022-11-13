@@ -22,7 +22,8 @@ You will find three assignments:
  * Programming Assignment 3 : The goal for this task is to design a PD controller for a quadrotor in 3D space: given a set of waypoints.
  
  <p align="center">
- 
+ <img src="helix.gif" alt="animated" width="400"/>
+ <img src="traj_gen.gif" alt="animated" width="400"/>
  </p>
  
 ## Course Syllabus
